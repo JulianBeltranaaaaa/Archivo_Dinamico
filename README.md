@@ -1,4 +1,5 @@
 # Archivo_Dinamico(prototipo)
+(Prototipo)
 
 Archivo_dinamico: esta libreia facilitara a la hora de leer,crear,copiar,mover y eliminar un archivo 
 
